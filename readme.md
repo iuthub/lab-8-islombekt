@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Student ID**: U1610170
-- **Student Name**: Nodirjon Utkirov
+- **Student ID**: U1610084
+- **Student Name**: Islombek Tokhirov
 - **Section Number**: 002
 
 ## Tasks
